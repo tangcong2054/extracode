@@ -13,7 +13,7 @@ public class CommandController {
 
     @GetMapping()
     public String printContext() throws Exception {
-        return "hello jenkins!";
+        return "hello jenkins!!";
 //        BufferedReader reader = null;
 //        String line = "";
 //        try{
